@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body {
+  background-color: black;
+  text-align: center;
+  color:#fff;
+  padding-top:10em;
+}
+
+* { color:#fff; text-decoration: none;}
+
+/*div{
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+} */
+
+#line1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  color: #39ff14
+}
+#line2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#line3 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#line4 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#line5 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#line6 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#line7 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#line8 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#line9 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#line10 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+#text{
+  font-family: 'Ubuntu', sans-serif;
+  font-size:  40px;
+  text-align: center;
+  margin-top: 25px;
+  color: #39ff14
+}
+mark{
+    color:  red;
+    background-color: transparent;
+}
+.button{
+  background-color: blue;
+  color:  white;
+  margin-top: 50px;
+  font-family: 'Ubuntu';
+  font-size: 25px;
+  text-align: center;
+  padding: 15px 32px;
+  cursor: pointer;
+}
